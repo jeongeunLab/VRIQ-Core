@@ -1,0 +1,10 @@
+{
+  "name": "com.vriq.core",
+  "version": "0.1.0",
+  "displayName": "VRIQ Core",
+  "description": "Core session, timing, event, and recording framework for process-centered VR interaction quality research.",
+  "unity": "6000.0",
+  "author": {
+    "name": "Lee Jeong Eun"
+  }
+}

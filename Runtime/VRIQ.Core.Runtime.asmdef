@@ -1,0 +1,5 @@
+{
+  "name": "VRIQ.Core.Runtime",
+  "rootNamespace": "VRIQ",
+  "autoReferenced": true
+}

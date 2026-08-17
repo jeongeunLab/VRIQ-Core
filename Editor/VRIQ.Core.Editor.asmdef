@@ -1,0 +1,11 @@
+{
+  "name": "VRIQ.Core.Editor",
+  "rootNamespace": "VRIQ.Editor",
+  "references": [
+    "VRIQ.Core.Runtime"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "autoReferenced": true
+}
